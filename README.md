@@ -6,7 +6,7 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-<img src="docs/cover\_photo.jpg">
+<img src="docs/cover.png" width="800">
 
 
 
@@ -52,7 +52,7 @@ The mechanical system is responsible for the actual launching of the projectile.
 
 
 
-<img src="docs/11.jpg">
+<img src="docs/11.png">
 
 
 
@@ -92,7 +92,7 @@ This system features a storage structure and a track with a constant 5-degree in
 
 
 
-<img src="docs/15.jpg">
+<img src="docs/15.png">
 
 
 
@@ -142,7 +142,7 @@ This is a motorized set of elements that makes the tensioning of the catapult po
 
 
 
-<img src="docs/24.jpg">
+<img src="docs/24.png">
 
 
 
@@ -192,7 +192,7 @@ A fundamental component of the tensioning process. Anchored securely to the grou
 
 
 
-<img src="docs/24.jpg">
+<img src="docs/33.png">
 
 
 
@@ -236,7 +236,7 @@ These are the final individual components and the complete assembly of the catap
 
 
 
-<img src="docs/42.jpg">
+<img src="docs/cover.jpg">
 
 
 
