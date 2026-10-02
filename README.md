@@ -6,7 +6,11 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-<img src="cover\_photo.jpg" alt="Cover Photo">
+<img src="docs/cover\_photo.jpg">
+
+
+
+\*Cover Photo\*
 
 
 
@@ -14,15 +18,27 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-<img src="docs/loading-gif.gif" alt="Loading Motion" width="800">
-
-<img src="docs/tensioning-gif.gif" width="800" alt="Tensioning Motion">
-
-<img src="docs/shooting-gif.gif" width="800" alt="Shooting Motion">
+<img src="docs/loading-gif.gif" width="800">
 
 
 
-## Subassemblies
+\*Loading Motion\*
+
+
+
+<img src="docs/tensioning-gif.gif" width="800">
+
+
+
+\*Tensioning Motion\*
+
+
+
+<img src="docs/shooting-gif.gif" width="800">
+
+
+
+\*Shooting Motion\*Subassemblies
 
 
 
@@ -32,7 +48,11 @@ The mechanical system is responsible for the actual launching of the projectile.
 
 
 
-<img src="11.jpg" alt="Figure 11: Mechanical System">
+<img src="docs/11.jpg">
+
+
+
+\*Mechanical System\*
 
 
 
@@ -68,7 +88,11 @@ This system features a storage structure and a track with a constant 5-degree in
 
 
 
-<img src="15.jpg" alt="Figure 15: Loading System">
+<img src="docs/15.jpg">
+
+
+
+\*Loading System\*
 
 
 
@@ -114,7 +138,11 @@ This is a motorized set of elements that makes the tensioning of the catapult po
 
 
 
-<img src="24.jpg" alt="Figure 24: Tensioning System">
+<img src="docs/24.jpg">
+
+
+
+\*Tensioning System\*
 
 
 
@@ -160,7 +188,11 @@ A fundamental component of the tensioning process. Anchored securely to the grou
 
 
 
-<img src="33.jpg" alt="Figure 33: Pulley System">
+<img src="docs/24.jpg">
+
+
+
+\*Tensioning System\*
 
 
 
@@ -200,7 +232,11 @@ These are the final individual components and the complete assembly of the catap
 
 
 
-<img src="42.jpg" alt="Figure 42: Catapult Assembly">
+<img src="docs/42.jpg">
+
+
+
+\*Catapult Assembly\*
 
 
 
@@ -254,7 +290,11 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="58.jpg" alt="Figure 58: Material Properties">
+<img src="docs/58.jpg">
+
+
+
+\*Material Properties\*
 
 
 
@@ -266,11 +306,19 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="59.jpg" alt="Figure 59: Main System Mesh (Elevation View)">
-
-<img src="60.jpg" alt="Figure 60: Main System Mesh (3D View)">
+<img src="docs/59.jpg">
 
 
+
+\*Main System Mesh (Elevation View)\*
+
+
+
+<img src="docs/60.jpg">
+
+
+
+\*Main System Mesh (3D View)\*
 
 ### Results
 
@@ -278,11 +326,27 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="61.jpg" alt="Figure 61: Von Mises Stress (Scale up to 41 MPa, Elevation View)">
+<img src="docs/61.jpg">
 
-<img src="62.jpg" alt="Figure 62: Von Mises Stress (Scale up to 41 MPa, Detail View)">
 
-<img src="63.jpg" alt="Figure 63: Von Mises Stress (Scale 15-266.4 MPa, Bearings Detail)">
+
+\*Von Mises Stress (Scale up to 41 MPa, Elevation View)\*
+
+
+
+<img src="docs/62.jpg">
+
+
+
+\*Von Mises Stress (Scale up to 41 MPa, Detail View)\*
+
+
+
+<img src="docs/63.jpg">
+
+
+
+\*Von Mises Stress (Scale 15-266.4 MPa, Bearings Detail)\*
 
 
 
@@ -294,7 +358,17 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="64.jpg" alt="Figure 64: Vertical Displacements (Elevation View)">
+<img src="docs/64.jpg">
 
-<img src="65.jpg" alt="Figure 65: Vertical Displacements (Isometric View)">
+
+
+\*Vertical Displacements (Elevation View)\*
+
+
+
+<img src="docs/65.jpg">
+
+
+
+\*Vertical Displacements (Isometric View)\*
 
