@@ -14,11 +14,11 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-<img src=docs/"loading-gif.gif" width="800" alt="Loading Motion">
+<img src="docs/loading-gif.gif" width="800" alt="Loading Motion">
 
-<img src=docs/"tensioning-gif.gif" width="800" alt="Tensioning Motion">
+<img src="docs/tensioning-gif.gif" width="800" alt="Tensioning Motion">
 
-<img src=docs/"shooting-gif.gif" width="800" alt="Shooting Motion">
+<img src="docs/shooting-gif.gif" width="800" alt="Shooting Motion">
 
 
 
