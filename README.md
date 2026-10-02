@@ -224,7 +224,13 @@ These are the final individual components and the complete assembly of the catap
 
 &#x20;   <tr><td>Sensor</td></tr>
 
-&#x20;   <tr><td>Catapult (Full Assembly)</td></tr>
+&#x20;   <tr><td>Mechanical System</td></tr>
+
+&#x20;   <tr><td>Loading System</td></tr>
+
+&#x20;   <tr><td>Tensioning System</td></tr>
+
+&#x20;   <tr><td>Pulley</td></tr>
 
 &#x20; </tbody>
 
