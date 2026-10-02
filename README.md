@@ -6,7 +6,7 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-<img src="docs/cover.png" width="800">
+<img src="docs/cover.png" width="600">
 
 
 
