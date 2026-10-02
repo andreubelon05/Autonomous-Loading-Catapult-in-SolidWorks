@@ -14,7 +14,7 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-<img src="docs/loading-gif.gif" width="800" alt="Loading Motion">
+<img src="docs/loading-gif.gif" alt="Loading Motion" width="800">
 
 <img src="docs/tensioning-gif.gif" width="800" alt="Tensioning Motion">
 
