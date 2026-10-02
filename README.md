@@ -236,7 +236,7 @@ These are the final individual components and the complete assembly of the catap
 
 
 
-<img src="docs/cover.jpg">
+<img src="docs/cover.png">
 
 
 
@@ -294,7 +294,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/58.jpg">
+<img src="docs/58.png">
 
 
 
@@ -310,7 +310,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/59.jpg">
+<img src="docs/59.png">
 
 
 
@@ -318,7 +318,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/60.jpg">
+<img src="docs/60.png">
 
 
 
@@ -330,7 +330,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/61.jpg">
+<img src="docs/61.png">
 
 
 
@@ -338,7 +338,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/62.jpg">
+<img src="docs/62.png">
 
 
 
@@ -346,7 +346,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/63.jpg">
+<img src="docs/63.png">
 
 
 
@@ -362,7 +362,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/64.jpg">
+<img src="docs/64.png">
 
 
 
@@ -370,7 +370,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-<img src="docs/65.jpg">
+<img src="docs/65.png">
 
 
 
