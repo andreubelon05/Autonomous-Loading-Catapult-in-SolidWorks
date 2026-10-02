@@ -10,7 +10,7 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-\*Cover Photo\*
+*Cover Photo*
 
 
 
@@ -22,7 +22,7 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-\*Loading Motion\*
+*Loading Motion*
 
 
 
@@ -30,7 +30,7 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-\*Tensioning Motion\*
+*Tensioning Motion*
 
 
 
@@ -38,7 +38,11 @@ This repository presents the design, 3D modeling, and structural analysis of an 
 
 
 
-\*Shooting Motion\*Subassemblies
+*Shooting Motion*
+
+
+
+## Subassemblies
 
 
 
@@ -52,7 +56,7 @@ The mechanical system is responsible for the actual launching of the projectile.
 
 
 
-\*Mechanical System\*
+*Mechanical System*
 
 
 
@@ -92,7 +96,7 @@ This system features a storage structure and a track with a constant 5-degree in
 
 
 
-\*Loading System\*
+*Loading System*
 
 
 
@@ -142,7 +146,7 @@ This is a motorized set of elements that makes the tensioning of the catapult po
 
 
 
-\*Tensioning System\*
+*Tensioning System*
 
 
 
@@ -192,7 +196,7 @@ A fundamental component of the tensioning process. Anchored securely to the grou
 
 
 
-\*Tensioning System\*
+*Tensioning System*
 
 
 
@@ -236,7 +240,7 @@ These are the final individual components and the complete assembly of the catap
 
 
 
-\*Catapult Assembly\*
+*Catapult Assembly*
 
 
 
@@ -294,7 +298,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Material Properties\*
+*Material Properties*
 
 
 
@@ -310,7 +314,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Main System Mesh (Elevation View)\*
+*Main System Mesh (Elevation View)*
 
 
 
@@ -318,7 +322,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Main System Mesh (3D View)\*
+*Main System Mesh (3D View)*
 
 ### Results
 
@@ -330,7 +334,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Von Mises Stress (Scale up to 41 MPa, Elevation View)\*
+*Von Mises Stress (Scale up to 41 MPa, Elevation View)*
 
 
 
@@ -338,7 +342,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Von Mises Stress (Scale up to 41 MPa, Detail View)\*
+*Von Mises Stress (Scale up to 41 MPa, Detail View)*
 
 
 
@@ -346,7 +350,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Von Mises Stress (Scale 15-266.4 MPa, Bearings Detail)\*
+*Von Mises Stress (Scale 15-266.4 MPa, Bearings Detail)*
 
 
 
@@ -362,7 +366,7 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Vertical Displacements (Elevation View)\*
+*Vertical Displacements (Elevation View)*
 
 
 
@@ -370,5 +374,5 @@ To achieve a balance between high rigidity (Young's modulus) and good toughness 
 
 
 
-\*Vertical Displacements (Isometric View)\*
+*Vertical Displacements (Isometric View)*
 
